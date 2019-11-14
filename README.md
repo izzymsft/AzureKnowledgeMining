@@ -1,4 +1,4 @@
-# Knowledge Mining on Microsoft Azure
+# Knowledge Mining Resources on Microsoft Azure
 This is a curated set of resources that provide links to knowledge-mining related content on Azure.
 
 ## What is Knowledge Mining?
